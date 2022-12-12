@@ -100,7 +100,8 @@ input[type="checkbox"]{
 }
 .content{
   position: absolute;
-  top: 50%;
+  top: 11vh;
+  z-index: 100;
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
